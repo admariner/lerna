@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.1.5](https://github.com/lerna/lerna/compare/v8.1.4...v8.1.5) (2024-06-24)
+
+### Bug Fixes
+
+- update npm utility dependencies and related packages ([#4033](https://github.com/lerna/lerna/issues/4033)) ([bd1c2d8](https://github.com/lerna/lerna/commit/bd1c2d8a267af47b409e2933fde2186dd73f4772))
+
+## [8.1.4](https://github.com/lerna/lerna/compare/v8.1.3...v8.1.4) (2024-06-09)
+
+**Note:** Version bump only for package @lerna/legacy-package-management
+
+## [8.1.3](https://github.com/lerna/lerna/compare/v8.1.2...v8.1.3) (2024-05-13)
+
+### Bug Fixes
+
+- **deps:** bump tar from 6.1.11 to 6.2.1 ([#3990](https://github.com/lerna/lerna/issues/3990)) ([3fe0cf0](https://github.com/lerna/lerna/commit/3fe0cf0b7f875f900f275320f3919853a953b3bb))
+- update to nx 19 ([#4003](https://github.com/lerna/lerna/issues/4003)) ([03f476b](https://github.com/lerna/lerna/commit/03f476bb8f49de2ca602a903b27d16d0a3fc8ffc))
+
 ## [8.1.2](https://github.com/lerna/lerna/compare/v8.1.1...v8.1.2) (2024-02-05)
 
 **Note:** Version bump only for package @lerna/legacy-package-management
